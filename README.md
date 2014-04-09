@@ -1,10 +1,10 @@
 IntensitySum
 ============
 
-### Background subtraction and ARN intensity sum for each segmented nucleus after a fish experiment
+#### Background subtraction and ARN intensity sum for each segmented nucleus after a fish experiment
 
 
-1. Load Segmented cell and original cell image to the matlab figure
+1. ##### Load Segmented cell and original cell image to the matlab figure
 
 ![alt tag](example/data_for_display/original.png)
 
@@ -21,7 +21,7 @@ Click Submit and wait for result!
 
 
 
-2. Output
+2. ##### Output
 
     * Nucleus Label
     
