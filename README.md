@@ -6,18 +6,18 @@ IntensitySum
 
 1. ##### Load Segmented cell and original cell image to the matlab figure
 
-![alt tag](example/data_for_display/original.png)
+   ![alt tag](example/data_for_display/original.png)
 
 
-![alt tag](example/data_for_display/seg.png)
+   ![alt tag](example/data_for_display/seg.png)
 
 
-It'll look like this
+   It'll look like this
 
-![alt tag](/example/data_for_display/intensitycount)
+   ![alt tag](/example/data_for_display/intensitycount)
 
 
-Click Submit and wait for result!
+   Click Submit and wait for result!
 
 
 
